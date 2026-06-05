@@ -7,7 +7,11 @@ An Electron-based donation overlay tool designed for streamers.
 Live Donation Bar is a desktop application developed for content creators and live streamers. It provides a customizable donation progress bar that can be integrated into OBS through Browser Source.
 
 The project was independently designed and developed, covering UI design, API integration, local server implementation, and software packaging.
+## Screenshots
 
+### Control Panel
+
+![Control Panel](control-panel.png)
 ## Key Features
 
 - YouTube donation integration
