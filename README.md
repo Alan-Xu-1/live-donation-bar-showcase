@@ -11,7 +11,7 @@ The project was independently designed and developed, covering UI design, API in
 
 ### Control Panel
 
-![Control Panel](live-donation-bar-control-panel.png.PNG)
+![Control Panel](live-donation-bar-control-panel.PNG)
 ## Key Features
 
 - YouTube donation integration
